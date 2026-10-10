@@ -64,7 +64,7 @@ This project presents an interactive Orders Report Dashboard developed using Loo
 
 🔗 **View Interactive Dashboard**
 
-[Click Here to View Dashboard]https://datastudio.google.com/reporting/2b625039-bf8a-484b-86cd-827282ea945e
+[Click Here to View Dashboard](https://datastudio.google.com/reporting/2b625039-bf8a-484b-86cd-827282ea945e)
 
 ## Dataset
 
